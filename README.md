@@ -1,6 +1,6 @@
 # Clone Interface Github
 
-> Clone da interface do github com reactjs!
+> Desenvolvimento do clone da interface do github com reacjt juntamente com o typescript, abordando algumas libs bastante usadas.
 
 ## 📖 O que foi usado?
 
